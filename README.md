@@ -1,10 +1,10 @@
-# 🏥 Healthcare Analytics — Faith Specialist Hospital
+# Healthcare Analytics — Faith Specialist Hospital
 
 > End-to-end SQL analysis of patient demographics, admissions, chronic disease prevalence, lifestyle risk factors, and doctor performance at a specialist hospital.
 
 ---
 
-## 📌 Project Overview
+## Project Overview
 
 This project involves a comprehensive relational database design and analytical SQL queries to uncover actionable insights from hospital records. The analysis spans patient demographics, discharge patterns, chronic illness comorbidities, lifestyle risk factors, and clinical performance evaluation.
 
@@ -12,7 +12,7 @@ This project involves a comprehensive relational database design and analytical 
 
 ---
 
-## 🗂️ Database Schema
+## Database Schema
 
 Four core tables form the relational model:
 
@@ -30,7 +30,7 @@ risk_factors     — Lifestyle data (alcohol, tobacco, NSAID use)
 
 ---
 
-## 🎯 Analytical Objectives
+## Analytical Objectives
 
 ### 1. Patient Demographics & Outcomes
 - Age-group breakdown with death rate, DAMA rate, CKD rate, and diabetes rate
@@ -65,7 +65,7 @@ risk_factors     — Lifestyle data (alcohol, tobacco, NSAID use)
 
 ---
 
-## 🛠️ Tools & Techniques
+## Tools & Techniques
 
 | Tool | Usage |
 |------|-------|
@@ -78,7 +78,7 @@ risk_factors     — Lifestyle data (alcohol, tobacco, NSAID use)
 
 ---
 
-## 📁 File Structure
+## File Structure
 
 ```
 healthcare-analytics-sql/
@@ -89,7 +89,7 @@ healthcare-analytics-sql/
 
 ---
 
-## 💡 Key Insights & Recommendations
+## Key Insights & Recommendations
 
 | # | Insight | Recommendation |
 |---|---------|----------------|
@@ -101,7 +101,7 @@ healthcare-analytics-sql/
 
 ---
 
-## 🚀 How to Run
+## How to Run
 
 1. Open MySQL Workbench (or any MySQL client)
 2. Run the full script: `COLLINS-CAPSTONE_PROJECT.sql`
@@ -115,7 +115,7 @@ healthcare-analytics-sql/
 
 ---
 
-## 👤 Author
+## Author
 
 **Hassan Ambi Isaac**
-Data Analyst | [LinkedIn](https://www.linkedin.com/in/hassanambi) | [GitHub](https://github.com/hassanambi)
+Data Analyst | [Linktree](https://linktr.ee/ambi29)
